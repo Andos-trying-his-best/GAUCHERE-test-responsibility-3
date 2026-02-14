@@ -146,7 +146,7 @@ ul {
 
 .content .leftsec img{
     height: auto;
-    width: clamp(100px, 40vw, 600px);
+    width: clamp(60px, 40vw, 600px);
     padding-bottom: clamp(2rem, 6vw, 6rem); 
 }
 
@@ -159,7 +159,7 @@ ul {
 
 .content .rightsec img{
     height: auto;
-    width: clamp(100px, 40vw, 600px);
+    width: clamp(60px, 40vw, 600px);
 }
 
 .textsubsec {
@@ -663,3 +663,4 @@ ul {
     font-size: clamp(1.2rem, 10vw, 3rem);
   }
 }
+
